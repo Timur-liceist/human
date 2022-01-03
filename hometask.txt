@@ -1,6 +1,0 @@
-кол-во коммитов - 3
-fix readme
-README added
-init
-
-у человечка не пугавок
